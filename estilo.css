@@ -1,0 +1,46 @@
+.opciones{
+    border: 5px;
+    margin: 10px;
+    padding: 5px;
+    border-color: red;
+    border-style: dashed;
+    display: inline;
+    gap: 10px;
+}
+#menu{
+    padding: 10px;
+    margin: 15px;
+    border: 10px;
+    border-color: red;
+    border-style: dashed;
+    text-align: center;
+}
+#contenido{
+    padding: 10px;
+    margin: 15px;
+    border: 10px;
+    border-color: red;
+    border-style: dashed;
+}
+#creador{
+    padding: 10px;
+    margin: 15px;
+    border: 10px;
+    border-color: red;
+    border-style: dashed;
+    text-align: center;
+}
+ol{
+    list-style: upper-roman;
+}
+img{
+    border-style:dotted;
+    border-color:green;
+    margin: 15px;
+}
+body{
+    background-color: greenyellow;
+}
+#causa{
+    text-align: center;
+}
